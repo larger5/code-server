@@ -1,0 +1,11 @@
+server:
+  port: 80
+  servlet:
+    context-path: /
+  tomcat:
+    uri-encoding: utf-8
+spring:
+  redis:
+    host: 120.59.97.120
+    port: 6378
+    database: 5
